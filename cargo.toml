@@ -1,7 +1,7 @@
 [package]
-name = "mything"
+name = "fib"
 version = "0.0.1"
 
 [lib]
-name = "mylib"
+name = "fib"
 path = "src/lib.rs"
