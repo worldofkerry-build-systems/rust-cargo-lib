@@ -1,7 +1,7 @@
-use fib::fib;
+use fib::fibonacci;
 
 #[test]
 fn fib_test() {
-    let result = fib(10);
-    assert_eq!(result == 55);
+    let result = fibonacci(10);
+    assert_eq!(result, 55);
 }
