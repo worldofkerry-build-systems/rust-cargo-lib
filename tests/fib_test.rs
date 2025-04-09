@@ -1,4 +1,4 @@
-use crate::fib::fib;
+use fib::fib;
 
 #[test]
 fn fib_test() {
